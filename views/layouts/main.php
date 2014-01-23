@@ -24,7 +24,7 @@
         <form method="post">
           <label for="username">Username</label>
           <input type="text" name="username">
-          <label for="password">Username</label>
+          <label for="password">password</label>
           <input type="password" name="password">
           <button type="submit">log on</button>
         </form>
